@@ -1,0 +1,12 @@
+﻿  node.cpp
+  RRTFunc.cpp
+  main.cpp
+c:\users\user\documents\visual studio 2017\projects\opencvtry2\opencvtry2\main.cpp(76): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+  c:\users\user\documents\visual studio 2017\projects\opencvtry2\opencvtry2\main.cpp(76): note: consider using '%zd' in the format string
+c:\users\user\documents\visual studio 2017\projects\opencvtry2\opencvtry2\main.cpp(274): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\opencvtry2\opencvtry2\main.cpp(307): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\opencvtry2\opencvtry2\main.cpp(308): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\opencvtry2\opencvtry2\main.cpp(627): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\opencvtry2\opencvtry2\main.cpp(628): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  opencvtry2.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\opencvtry2\x64\Debug\Path_Find.exe
