@@ -1,7 +1,6 @@
-# EEE4022S-Code
+# Global Path Planning Algorithm
 
-This is the program created to test the implementation of the RRT algorythm.
-
+This program was created for my final year Engineering project at the University of Cape Town. The application creates a path through a map/image of terrain with obstacles to guide a unmanned surface vehicle from a start point to end point. The algorithm is based on rapidly exploring random trees (RRTs)
 # File Layout
 
 The folder consists of a Visual studio .sln file and root folder "opencvtry2" with the code. Images are included for testing. The program
